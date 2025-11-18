@@ -13,6 +13,9 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
+#exclude the large nebula background
+**/Animated_Nebulas_Starter_Pack
+
 # Visual Studio 2015 user specific files
 .vs/
 
